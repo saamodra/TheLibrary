@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Durasi" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Denda" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="Nama_Perpustakaan" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nama Perpustakaan</Value>
+    </Setting>
+    <Setting Name="Alamat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jl. Abcdefgh, Kota Ponorogo</Value>
+    </Setting>
+    <Setting Name="Telp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Telp : 29387471</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
